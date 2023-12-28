@@ -16,3 +16,7 @@
       2. help
       3. exit
    2. 调用环境变量中的工具，主要是一条指令，execvp
+
+用 understand 分析的调用关系如下：
+
+![calls](./image/calls.png)
